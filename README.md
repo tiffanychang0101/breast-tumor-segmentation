@@ -19,3 +19,6 @@
 共使用10個乳房磁振造影病例: 每病例各3張，共30張。其中10張做為測試集，20張為訓練集。故每次訓練集中的影像將會有190000個Patches產生，並將其中90%作為訓練用（171000 Patches），10%作為驗證用（19000 Patches）。實驗共訓練150個epoches，mini-batch的大小為32個patches，即以每32個patches作為一個小批次訓練，這樣子的方式會比直接用全部的patches做梯度下降來的快速。
 
 訓練時以循環的方式進行，將所有樣本分為三大群A、B、C，每群為10張。即當A群為測試集時，B與C為訓練集；當B群為測試集時，A與C為訓練集；當C群為測試集時，A與B為訓練集。我們使用的顯示卡為GTX 1070 Ti，每一循環大約花一個禮拜的時間來做訓練。
+
+## 結果
+![1](https://github.com/tiffanychang0101/breast-tumor-segmentation/blob/master/breast-tumor-segmentation/tumor_segmentation/150_epoches/testcompare1.png)
