@@ -22,6 +22,7 @@
 ![9](https://github.com/tiffanychang0101/breast-tumor-segmentation/blob/master/breast-tumor-segmentation/tumor_segmentation/150_epoches/testcompare9.png)
 ![10](https://github.com/tiffanychang0101/breast-tumor-segmentation/blob/master/breast-tumor-segmentation/tumor_segmentation/150_epoches/testcompare10.png)
 
-## 引用/參考文獻
-https://github.com/zhixuhao/unet
+## 引用與參考文獻
+https://github.com/zhixuhao/unet 
+
 https://github.com/orobix/retina-unet#retina-blood-vessel-segmentation-with-a-convolution-neural-network-u-net
