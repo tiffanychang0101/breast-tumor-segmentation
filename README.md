@@ -8,7 +8,8 @@
 ## 開發環境及工具
 以Keras作為深度學習的工具，它能夠以Tensorflow做為後端運行
 
-## 採用的網路架構：U-Net
+## 採用的網路架構
+U-Net
 
 ## 結果
 ![1](https://github.com/tiffanychang0101/breast-tumor-segmentation/blob/master/breast-tumor-segmentation/tumor_segmentation/150_epoches/testcompare1.png)
