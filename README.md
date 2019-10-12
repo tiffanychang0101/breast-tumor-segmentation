@@ -12,16 +12,15 @@
 U-Net
 
 ## 結果
-![1](https://github.com/tiffanychang0101/breast-tumor-segmentation/blob/master/breast-tumor-segmentation/tumor_segmentation/150_epoches/testcompare1.png)
-![2](https://github.com/tiffanychang0101/breast-tumor-segmentation/blob/master/breast-tumor-segmentation/tumor_segmentation/150_epoches/testcompare2.png)
-![3](https://github.com/tiffanychang0101/breast-tumor-segmentation/blob/master/breast-tumor-segmentation/tumor_segmentation/150_epoches/testcompare3.png)
+![1](https://github.com/tiffanychang0101/breast-tumor-segmentation/blob/master/breast-tumor-segmentation/DRIVE/test/images/01_test.png)
+![2](https://github.com/tiffanychang0101/breast-tumor-segmentation/blob/master/breast-tumor-segmentation/test/testGroundTruth1.png)
+![3](https://github.com/tiffanychang0101/breast-tumor-segmentation/blob/master/breast-tumor-segmentation/test/testPrediction1.png)
 ![4](https://github.com/tiffanychang0101/breast-tumor-segmentation/blob/master/breast-tumor-segmentation/tumor_segmentation/150_epoches/testcompare4.png)
 ![5](https://github.com/tiffanychang0101/breast-tumor-segmentation/blob/master/breast-tumor-segmentation/tumor_segmentation/150_epoches/testcompare5.png)
 ![6](https://github.com/tiffanychang0101/breast-tumor-segmentation/blob/master/breast-tumor-segmentation/tumor_segmentation/150_epoches/testcompare6.png)
 ![7](https://github.com/tiffanychang0101/breast-tumor-segmentation/blob/master/breast-tumor-segmentation/tumor_segmentation/150_epoches/testcompare7.png)
 ![8](https://github.com/tiffanychang0101/breast-tumor-segmentation/blob/master/breast-tumor-segmentation/tumor_segmentation/150_epoches/testcompare8.png)
 ![9](https://github.com/tiffanychang0101/breast-tumor-segmentation/blob/master/breast-tumor-segmentation/tumor_segmentation/150_epoches/testcompare9.png)
-![10](https://github.com/tiffanychang0101/breast-tumor-segmentation/blob/master/breast-tumor-segmentation/tumor_segmentation/150_epoches/testcompare10.png)
 
 ## 引用與參考文獻
 https://github.com/zhixuhao/unet 
