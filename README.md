@@ -11,7 +11,7 @@
 ## 採用的網路架構
 U-Net
 
-## 結果
+## 結果(左:ground truth/右:result)
 ![1](https://github.com/tiffanychang0101/breast-tumor-segmentation/blob/master/breast-tumor-segmentation/test/testGroundTruth1.png)
 ![2](https://github.com/tiffanychang0101/breast-tumor-segmentation/blob/master/breast-tumor-segmentation/test/testPrediction1.png)
 
